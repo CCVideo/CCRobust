@@ -39,4 +39,6 @@ android {
 
 dependencies {
     embed 'com.bokecc.plugin:ccrobust:0.1.2'
+    embed 'com.bokecc.plugin:autopatchbase:0.1.2'
+    embed 'com.bokecc.plugin:robust:0.1.2'
 }
