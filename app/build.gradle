@@ -41,6 +41,7 @@ android {
 dependencies {
     implementation project(':lib')
 
+    implementation 'com.github.CCVideo:CCRobust:0.1.2'
     implementation 'com.github.CCVideo:CCPlayer:1.1.0'
     implementation 'com.github.CCVideo:CCDrmLib:1.2.1'
     implementation 'com.github.CCVideo:CCCommonLib:1.1.10'
